@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 42.36 MB |
-| Submitted | 2026-08-05 |
+| Memory | 42.40 MB |
+| Submitted | 2026-08-03 |
 
 ## Repository Path
 
-`Java/Medium/0022-generate-parentheses/attempts/2094685306/solution.java`
+`Java/Medium/0022-generate-parentheses/attempts/2092743855/solution.java`
 
 ## Synced By
 
