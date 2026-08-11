@@ -7,8 +7,8 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **13** |
-| 🟢 Easy | 7 |
+| **Total Solved** | **14** |
+| 🟢 Easy | 8 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 1 |
 
@@ -16,18 +16,18 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 13 |
+| Java | 14 |
 | JavaScript | 3 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Linked List | 6 |
+| Linked List | 7 |
+| Two Pointers | 6 |
 | Array | 5 |
-| Two Pointers | 5 |
 | Hash Table | 3 |
-| Design | 2 |
+| Recursion | 3 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
