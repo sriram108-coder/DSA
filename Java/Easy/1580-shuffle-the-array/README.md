@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 44.21 MB |
+| Memory | 44.23 MB |
 | Submitted | 2026-06-13 |
 
 ## Repository Path
 
-`Java/Easy/1580-shuffle-the-array/attempts/2031718891/solution.java`
+`Java/Easy/1580-shuffle-the-array/attempts/2031716814/solution.java`
 
 ## Synced By
 
