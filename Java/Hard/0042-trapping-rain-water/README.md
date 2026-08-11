@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 1 ms |
-| Memory | 45.43 MB |
-| Submitted | 2026-08-05 |
+| Runtime | N/A |
+| Memory | 45.33 MB |
+| Submitted | 2026-06-15 |
 
 ## Repository Path
 
-`Java/Hard/0042-trapping-rain-water/attempts/2094742916/solution.java`
+`Java/Hard/0042-trapping-rain-water/attempts/2033751557/solution.java`
 
 ## Synced By
 
