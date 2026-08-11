@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 5 ms |
-| Memory | 44.20 MB |
+| Runtime | 6 ms |
+| Memory | 44.25 MB |
 | Submitted | 2026-08-05 |
 
 ## Repository Path
 
-`Java/Medium/0006-zigzag-conversion/attempts/2094742179/solution.java`
+`Java/Medium/0006-zigzag-conversion/attempts/2094741386/solution.java`
 
 ## Synced By
 
