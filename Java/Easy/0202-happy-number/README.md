@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | N/A |
-| Memory | N/A |
+| Runtime | 1 ms |
+| Memory | 40.28 MB |
 | Submitted | 2026-07-05 |
 
 ## Repository Path
 
-`Java/Easy/0202-happy-number/attempts/2056813131/solution.java`
+`Java/Easy/0202-happy-number/attempts/2056812807/solution.java`
 
 ## Synced By
 
