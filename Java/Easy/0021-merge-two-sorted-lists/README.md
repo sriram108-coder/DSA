@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 41.80 MB |
+| Memory | 42.03 MB |
 | Submitted | 2026-08-05 |
 
 ## Repository Path
 
-`Java/Easy/0021-merge-two-sorted-lists/attempts/2094772176/solution.java`
+`Java/Easy/0021-merge-two-sorted-lists/attempts/2094766270/solution.java`
 
 ## Synced By
 
