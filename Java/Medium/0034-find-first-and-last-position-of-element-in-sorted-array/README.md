@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 45.86 MB |
-| Submitted | 2026-06-16 |
+| Memory | 46.09 MB |
+| Submitted | 2026-05-27 |
 
 ## Repository Path
 
-`Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/attempts/2034960580/solution.java`
+`Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/attempts/2014417180/solution.java`
 
 ## Synced By
 
