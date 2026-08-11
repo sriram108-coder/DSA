@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 8 ms |
-| Memory | 44.86 MB |
+| Runtime | 5 ms |
+| Memory | 44.88 MB |
 | Submitted | 2026-06-13 |
 
 ## Repository Path
 
-`Java/Easy/4216-weighted-word-mapping/attempts/2031875052/solution.java`
+`Java/Easy/4216-weighted-word-mapping/attempts/2031762308/solution.java`
 
 ## Synced By
 
