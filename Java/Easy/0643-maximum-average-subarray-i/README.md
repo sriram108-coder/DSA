@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 4 ms |
-| Memory | 66.32 MB |
+| Runtime | 5 ms |
+| Memory | 66.65 MB |
 | Submitted | 2026-07-02 |
 
 ## Repository Path
 
-`Java/Easy/0643-maximum-average-subarray-i/attempts/2053205037/solution.java`
+`Java/Easy/0643-maximum-average-subarray-i/attempts/2053195567/solution.java`
 
 ## Synced By
 
