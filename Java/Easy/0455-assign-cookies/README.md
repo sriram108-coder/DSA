@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 14 ms |
-| Memory | 49.21 MB |
+| Runtime | 15 ms |
+| Memory | 49.25 MB |
 | Submitted | 2026-05-15 |
 
 ## Repository Path
 
-`Java/Easy/0455-assign-cookies/attempts/2004091780/solution.java`
+`Java/Easy/0455-assign-cookies/attempts/2004084062/solution.java`
 
 ## Synced By
 
