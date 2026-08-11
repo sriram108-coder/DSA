@@ -7,16 +7,16 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **16** |
+| **Total Solved** | **17** |
 | 🟢 Easy | 9 |
-| 🟡 Medium | 6 |
+| 🟡 Medium | 7 |
 | 🔴 Hard | 1 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 16 |
+| Java | 17 |
 | JavaScript | 3 |
 
 ## 🏷️ Top Topics
@@ -24,8 +24,8 @@
 | Topic | Solved |
 |---|---|
 | Linked List | 9 |
-| Two Pointers | 6 |
-| Array | 5 |
+| Two Pointers | 7 |
+| Array | 6 |
 | Recursion | 4 |
 | Hash Table | 3 |
 
