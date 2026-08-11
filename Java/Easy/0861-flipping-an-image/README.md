@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | N/A |
+| Runtime | 1 ms |
 | Memory | 43.51 MB |
-| Submitted | 2026-06-13 |
+| Submitted | 2026-03-27 |
 
 ## Repository Path
 
-`Java/Easy/0861-flipping-an-image/attempts/2031960925/solution.java`
+`Java/Easy/0861-flipping-an-image/attempts/1960794050/solution.java`
 
 ## Synced By
 
