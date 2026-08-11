@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 32 ms |
-| Memory | 56.42 MB |
-| Submitted | 2026-08-05 |
+| Runtime | 34 ms |
+| Memory | 56.32 MB |
+| Submitted | 2026-07-08 |
 
 ## Repository Path
 
-`Java/Medium/0015-3sum/attempts/2094773097/solution.java`
+`Java/Medium/0015-3sum/attempts/2060781528/solution.java`
 
 ## Synced By
 

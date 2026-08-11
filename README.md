@@ -7,23 +7,23 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **4** |
+| **Total Solved** | **5** |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 4 |
+| Java | 5 |
 | JavaScript | 2 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Array | 2 |
+| Array | 3 |
 | Hash Table | 2 |
 | Design | 1 |
 | Hash Function | 1 |
