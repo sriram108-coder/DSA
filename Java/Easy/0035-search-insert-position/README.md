@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 38 ms |
-| Memory | 44.16 MB |
-| Submitted | 2026-05-27 |
+| Runtime | N/A |
+| Memory | 41.07 MB |
+| Submitted | 2025-01-07 |
 
 ## Repository Path
 
-`Java/Easy/0035-search-insert-position/attempts/2014359983/solution.java`
+`Java/Easy/0035-search-insert-position/attempts/1500835697/solution.java`
 
 ## Synced By
 
