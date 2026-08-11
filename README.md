@@ -7,8 +7,8 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **5** |
-| 🟢 Easy | 3 |
+| **Total Solved** | **6** |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 5 |
+| Java | 6 |
 | JavaScript | 3 |
 
 ## 🏷️ Top Topics
@@ -25,9 +25,9 @@
 |---|---|
 | Array | 3 |
 | Hash Table | 2 |
+| Math | 2 |
+| Binary Search | 1 |
 | Design | 1 |
-| Hash Function | 1 |
-| Linked List | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
