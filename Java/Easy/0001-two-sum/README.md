@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | 2 ms |
-| Memory | 44.78 MB |
-| Submitted | 2026-07-08 |
+| Memory | 45.07 MB |
+| Submitted | 2026-06-06 |
 
 ## Repository Path
 
-`Java/Easy/0001-two-sum/attempts/2060418431/solution.java`
+`Java/Easy/0001-two-sum/attempts/2024270930/solution.java`
 
 ## Synced By
 
