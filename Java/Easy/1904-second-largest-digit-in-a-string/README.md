@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 3 ms |
-| Memory | 41.43 MB |
+| Runtime | 30 ms |
+| Memory | 44.86 MB |
 | Submitted | 2026-06-05 |
 
 ## Repository Path
 
-`Java/Easy/1904-second-largest-digit-in-a-string/attempts/2023130622/solution.java`
+`Java/Easy/1904-second-largest-digit-in-a-string/attempts/2023126446/solution.java`
 
 ## Synced By
 
