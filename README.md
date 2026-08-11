@@ -17,7 +17,7 @@
 | Language | Solutions |
 |---|---|
 | Java | 3 |
-| JavaScript | 1 |
+| JavaScript | 2 |
 
 ## 🏷️ Top Topics
 
