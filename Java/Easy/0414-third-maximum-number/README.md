@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 3 ms |
-| Memory | 40.74 MB |
+| Runtime | N/A |
+| Memory | 40.71 MB |
 | Submitted | 2024-02-02 |
 
 ## Repository Path
 
-`Java/Easy/0414-third-maximum-number/attempts/1164054795/solution.java`
+`Java/Easy/0414-third-maximum-number/attempts/1164049892/solution.java`
 
 ## Synced By
 
