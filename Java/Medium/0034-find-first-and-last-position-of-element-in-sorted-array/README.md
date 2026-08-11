@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | N/A |
-| Memory | 46.09 MB |
-| Submitted | 2026-05-27 |
+| Runtime | 1 ms |
+| Memory | 43.83 MB |
+| Submitted | 2025-01-08 |
 
 ## Repository Path
 
-`Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/attempts/2014417180/solution.java`
+`Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/attempts/1501526864/solution.java`
 
 ## Synced By
 
