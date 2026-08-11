@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | JavaScript |
-| Runtime | 145 ms |
-| Memory | 56.58 MB |
+| Runtime | 53 ms |
+| Memory | 41.89 MB |
 | Submitted | 2024-01-08 |
 
 ## Repository Path
 
-`JavaScript/Medium/0015-3sum/attempts/1140421224/solution.js`
+`JavaScript/Medium/0015-3sum/attempts/1140419013/solution.js`
 
 ## Synced By
 
