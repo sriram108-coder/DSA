@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 41.05 MB |
-| Submitted | 2026-06-11 |
+| Memory | 40.99 MB |
+| Submitted | 2026-03-27 |
 
 ## Repository Path
 
-`Java/Easy/1833-find-the-highest-altitude/attempts/2029460301/solution.java`
+`Java/Easy/1833-find-the-highest-altitude/attempts/1960763384/solution.java`
 
 ## Synced By
 
