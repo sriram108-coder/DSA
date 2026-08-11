@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | 7 ms |
-| Memory | 44.76 MB |
-| Submitted | 2026-05-15 |
+| Memory | 44.85 MB |
+| Submitted | 2026-05-14 |
 
 ## Repository Path
 
-`Java/Medium/0838-design-linked-list/attempts/2004052484/solution.java`
+`Java/Medium/0838-design-linked-list/attempts/2003074353/solution.java`
 
 ## Synced By
 
