@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 116 ms |
-| Memory | 38.89 MB |
+| Runtime | 91 ms |
+| Memory | 37.76 MB |
 | Submitted | 2024-01-23 |
 
 ## Repository Path
 
-`Java/Easy/0009-palindrome-number/attempts/1154392523/solution.java`
+`Java/Easy/0009-palindrome-number/attempts/1154383591/solution.java`
 
 ## Synced By
 
