@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 45.00 MB |
-| Submitted | 2026-06-13 |
+| Memory | 45.14 MB |
+| Submitted | 2026-03-26 |
 
 ## Repository Path
 
-`Java/Easy/2058-concatenation-of-array/attempts/2031623435/solution.java`
+`Java/Easy/2058-concatenation-of-array/attempts/1960010900/solution.java`
 
 ## Synced By
 
