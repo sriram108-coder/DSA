@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 5 ms |
-| Memory | 73.67 MB |
+| Runtime | 3852 ms |
+| Memory | 48.65 MB |
 | Submitted | 2026-04-21 |
 
 ## Repository Path
 
-`Java/Medium/0011-container-with-most-water/attempts/1984207886/solution.java`
+`Java/Medium/0011-container-with-most-water/attempts/1984193992/solution.java`
 
 ## Synced By
 
