@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 2 ms |
-| Memory | 49.51 MB |
+| Runtime | 4 ms |
+| Memory | 50.08 MB |
 | Submitted | 2026-06-30 |
 
 ## Repository Path
 
-`Java/Medium/1046-max-consecutive-ones-iii/attempts/2050891824/solution.java`
+`Java/Medium/1046-max-consecutive-ones-iii/attempts/2050751231/solution.java`
 
 ## Synced By
 
