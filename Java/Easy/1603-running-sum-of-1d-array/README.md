@@ -11,12 +11,12 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 42.11 MB |
-| Submitted | 2026-06-11 |
+| Memory | 42.15 MB |
+| Submitted | 2026-05-14 |
 
 ## Repository Path
 
-`Java/Easy/1603-running-sum-of-1d-array/attempts/2029451451/solution.java`
+`Java/Easy/1603-running-sum-of-1d-array/attempts/2002655269/solution.java`
 
 ## Synced By
 
