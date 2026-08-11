@@ -10,13 +10,13 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 35 ms |
-| Memory | 44.74 MB |
-| Submitted | 2026-04-21 |
+| Runtime | 140 ms |
+| Memory | 42.92 MB |
+| Submitted | 2025-08-29 |
 
 ## Repository Path
 
-`Java/Easy/0001-two-sum/attempts/1984155037/solution.java`
+`Java/Easy/0001-two-sum/attempts/1752187787/solution.java`
 
 ## Synced By
 
