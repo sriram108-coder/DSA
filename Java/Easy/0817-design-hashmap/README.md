@@ -5,7 +5,7 @@
 ## Topics
 `Array` `Hash Table` `Linked List` `Design` `Hash Function` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | 26 ms |
 | Memory | 50.44 MB |
 | Submitted | 2026-07-22 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-22 | Java | 26 ms | 50.44 MB | Accepted | [View Code](./attempts/2077455342/solution.java) |
 
 ## Repository Path
 
