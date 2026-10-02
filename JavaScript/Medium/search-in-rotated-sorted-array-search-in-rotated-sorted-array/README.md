@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | JavaScript |
-| Runtime | 55 ms |
-| Memory | 40.42 MB |
+| Runtime | 54 ms |
+| Memory | 39.93 MB |
 | Submitted | 2024-01-08 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/search-in-rotated-sorted-array-search-in-rotated-sorted-array/attempts/1140676871/solution.js`
+`JavaScript/Medium/search-in-rotated-sorted-array-search-in-rotated-sorted-array/attempts/1140672693/solution.js`
 
 ## Synced By
 
