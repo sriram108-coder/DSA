@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 44.56 MB |
-| Submitted | 2026-07-05 |
+| Memory | 44.71 MB |
+| Submitted | 2026-06-03 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0141-linked-list-cycle/attempts/2056759431/solution.java`
+`Java/Easy/0141-linked-list-cycle/attempts/2021694960/solution.java`
 
 ## Synced By
 
