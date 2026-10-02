@@ -10,7 +10,7 @@
 | Metric | Value |
 |---|---|
 | Language | MySQL |
-| Runtime | 441 ms |
+| Runtime | 514 ms |
 | Memory | N/A |
 | Submitted | 2025-11-23 |
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/game-play-analysis-i-game-play-analysis-i/attempts/1837451349/solution.txt`
+`Mysql/Easy/game-play-analysis-i-game-play-analysis-i/attempts/1837449318/solution.txt`
 
 ## Synced By
 
