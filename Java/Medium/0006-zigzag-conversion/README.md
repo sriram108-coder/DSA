@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 5 ms |
-| Memory | 44.26 MB |
-| Submitted | 2026-07-09 |
+| Memory | 44.25 MB |
+| Submitted | 2026-06-19 |
 
 ## Attempt Evolution
 
@@ -26,7 +26,7 @@
 
 ## Repository Path
 
-`Java/Medium/0006-zigzag-conversion/attempts/2061262612/solution.java`
+`Java/Medium/0006-zigzag-conversion/attempts/2038488196/solution.java`
 
 ## Synced By
 
