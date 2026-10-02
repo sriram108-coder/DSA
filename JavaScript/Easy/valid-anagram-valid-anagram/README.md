@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | JavaScript |
-| Runtime | 75 ms |
-| Memory | 47.08 MB |
+| Runtime | 78 ms |
+| Memory | 43.94 MB |
 | Submitted | 2024-01-04 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`JavaScript/Easy/valid-anagram-valid-anagram/attempts/1136622165/solution.js`
+`JavaScript/Easy/valid-anagram-valid-anagram/attempts/1136619630/solution.js`
 
 ## Synced By
 
