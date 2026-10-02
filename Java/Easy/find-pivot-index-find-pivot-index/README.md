@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 45.08 MB |
-| Submitted | 2026-04-05 |
+| Memory | 43.51 MB |
+| Submitted | 2024-05-05 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/find-pivot-index-find-pivot-index/attempts/1969342280/solution.java`
+`Java/Easy/find-pivot-index-find-pivot-index/attempts/1249844134/solution.java`
 
 ## Synced By
 
