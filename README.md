@@ -16,16 +16,16 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 14 |
+| Java | 16 |
 | JavaScript | 3 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Linked List | 8 |
+| Linked List | 10 |
+| Two Pointers | 7 |
 | Array | 6 |
-| Two Pointers | 6 |
 | Recursion | 4 |
 | Hash Table | 3 |
 
