@@ -1,4 +1,4 @@
-# delete-duplicate-emails. Duplicate Emails
+# delete-duplicate-emails. Delete Duplicate Emails
 
 🟢 Easy
 
@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | MySQL |
-| Runtime | 358 ms |
+| Runtime | 495 ms |
 | Memory | N/A |
-| Submitted | 2025-11-22 |
+| Submitted | 2025-11-23 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/delete-duplicate-emails-delete-duplicate-emails/attempts/1836584748/solution.txt`
+`Mysql/Easy/delete-duplicate-emails-delete-duplicate-emails/attempts/1837296232/solution.txt`
 
 ## Synced By
 
