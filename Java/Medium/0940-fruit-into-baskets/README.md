@@ -5,18 +5,25 @@
 ## Topics
 `Array` `Hash Table` `Sliding Window` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 3859 ms |
-| Memory | 45.44 MB |
+| Runtime | 55 ms |
+| Memory | 67.21 MB |
 | Submitted | 2026-06-30 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-30 | Java | 55 ms | 67.21 MB | Accepted | [View Code](./attempts/2051558588/solution.java) |
+| #2 | 2026-06-30 | Java | 3859 ms | 45.44 MB | Time_Limit_Exceeded | [View Code](./attempts/2051539329/solution.java) |
 
 ## Repository Path
 
-`Java/Medium/0940-fruit-into-baskets/attempts/2051539329/solution.java`
+`Java/Medium/0940-fruit-into-baskets/attempts/2051558588/solution.java`
 
 ## Synced By
 
