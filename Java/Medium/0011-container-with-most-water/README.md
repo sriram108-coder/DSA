@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 5 ms |
-| Memory | 73.90 MB |
+| Runtime | 3900 ms |
+| Memory | 48.50 MB |
 | Submitted | 2026-07-08 |
 
 ## Attempt Evolution
@@ -28,7 +28,7 @@
 
 ## Repository Path
 
-`Java/Medium/0011-container-with-most-water/attempts/2060472751/solution.java`
+`Java/Medium/0011-container-with-most-water/attempts/2060455270/solution.java`
 
 ## Synced By
 
