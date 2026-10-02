@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | N/A |
-| Memory | 43.57 MB |
+| Runtime | 1 ms |
+| Memory | 43.58 MB |
 | Submitted | 2025-01-08 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/count-negative-numbers-in-a-sorted-matrix-count-negative-numbers-in-a-sorted-matrix/attempts/1501518686/solution.java`
+`Java/Easy/count-negative-numbers-in-a-sorted-matrix-count-negative-numbers-in-a-sorted-matrix/attempts/1501515272/solution.java`
 
 ## Synced By
 
