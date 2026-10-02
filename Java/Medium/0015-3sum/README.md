@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 34 ms |
-| Memory | 56.32 MB |
-| Submitted | 2026-07-08 |
+| Memory | 56.55 MB |
+| Submitted | 2026-06-13 |
 
 ## Attempt Evolution
 
@@ -28,7 +28,7 @@
 
 ## Repository Path
 
-`Java/Medium/0015-3sum/attempts/2060781528/solution.java`
+`Java/Medium/0015-3sum/attempts/2032169167/solution.java`
 
 ## Synced By
 
