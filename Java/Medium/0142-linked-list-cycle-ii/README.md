@@ -5,7 +5,7 @@
 ## Topics
 `Hash Table` `Linked List` `Two Pointers` `Floyd's Cycle Finding Algorithm` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | N/A |
 | Memory | 44.74 MB |
 | Submitted | 2026-07-05 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-05 | Java | N/A | 44.74 MB | Accepted | [View Code](./attempts/2056757619/solution.java) |
 
 ## Repository Path
 
