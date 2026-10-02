@@ -7,27 +7,27 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **2** |
+| **Total Solved** | **3** |
 | 🟢 Easy | 1 |
 | 🟡 Medium | 1 |
-| 🔴 Hard | 0 |
+| 🔴 Hard | 1 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 13 |
-| JavaScript | 2 |
+| Java | 14 |
+| JavaScript | 3 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
 | Linked List | 8 |
+| Array | 6 |
 | Two Pointers | 6 |
-| Array | 5 |
 | Recursion | 4 |
-| Stack | 3 |
+| Hash Table | 3 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
