@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 45.00 MB |
-| Submitted | 2026-03-28 |
+| Memory | 44.96 MB |
+| Submitted | 2026-03-27 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/add-to-array-form-of-integer-add-to-array-form-of-integer/attempts/1961586783/solution.java`
+`Java/Easy/add-to-array-form-of-integer-add-to-array-form-of-integer/attempts/1961135396/solution.java`
 
 ## Synced By
 
