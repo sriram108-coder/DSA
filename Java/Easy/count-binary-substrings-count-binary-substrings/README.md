@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 11 ms |
-| Memory | 41.40 MB |
+| Runtime | 12 ms |
+| Memory | 41.92 MB |
 | Submitted | 2023-09-27 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/count-binary-substrings-count-binary-substrings/attempts/1060752447/solution.java`
+`Java/Easy/count-binary-substrings-count-binary-substrings/attempts/1060747158/solution.java`
 
 ## Synced By
 
