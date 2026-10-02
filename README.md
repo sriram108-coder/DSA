@@ -7,16 +7,16 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **56** |
+| **Total Solved** | **57** |
 | 🟢 Easy | 32 |
-| 🟡 Medium | 22 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 2 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 71 |
+| Java | 75 |
 | JavaScript | 12 |
 | MySQL | 11 |
 
@@ -24,11 +24,11 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 51 |
+| Array | 55 |
 | Two Pointers | 21 |
 | Binary Search | 14 |
+| Hash Table | 14 |
 | Linked List | 14 |
-| Hash Table | 13 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
