@@ -17,7 +17,7 @@
 | Language | Solutions |
 |---|---|
 | Java | 80 |
-| JavaScript | 16 |
+| JavaScript | 17 |
 | MySQL | 11 |
 
 ## 🏷️ Top Topics
