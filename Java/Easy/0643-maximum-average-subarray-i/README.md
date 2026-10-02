@@ -11,7 +11,7 @@
 |---|---|
 | Language | Java |
 | Runtime | 5 ms |
-| Memory | 66.65 MB |
+| Memory | 66.33 MB |
 | Submitted | 2026-07-02 |
 
 ## Attempt Evolution
@@ -26,7 +26,7 @@
 
 ## Repository Path
 
-`Java/Easy/0643-maximum-average-subarray-i/attempts/2053195567/solution.java`
+`Java/Easy/0643-maximum-average-subarray-i/attempts/2053186894/solution.java`
 
 ## Synced By
 
