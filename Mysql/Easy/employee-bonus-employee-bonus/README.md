@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | MySQL |
-| Runtime | 871 ms |
+| Runtime | 782 ms |
 | Memory | N/A |
-| Submitted | 2025-11-22 |
+| Submitted | 2025-11-16 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/employee-bonus-employee-bonus/attempts/1836464620/solution.txt`
+`Mysql/Easy/employee-bonus-employee-bonus/attempts/1831251389/solution.txt`
 
 ## Synced By
 
