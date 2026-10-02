@@ -7,25 +7,27 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **0** |
+| **Total Solved** | **1** |
 | 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 1 |
+| Java | 3 |
 | JavaScript | 1 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Array | 1 |
-| Sorting | 1 |
-| Two Pointers | 1 |
+| Array | 2 |
+| Two Pointers | 2 |
+| Dynamic Programming | 1 |
+| Linked List | 1 |
+| Monotonic Stack | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
