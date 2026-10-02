@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 2 ms |
-| Memory | 45.07 MB |
+| Runtime | 5 ms |
+| Memory | 44.45 MB |
 | Submitted | 2026-06-06 |
 
 ## Attempt Evolution
@@ -32,7 +32,7 @@
 
 ## Repository Path
 
-`Java/Easy/0001-two-sum/attempts/2024270930/solution.java`
+`Java/Easy/0001-two-sum/attempts/2024270284/solution.java`
 
 ## Synced By
 
