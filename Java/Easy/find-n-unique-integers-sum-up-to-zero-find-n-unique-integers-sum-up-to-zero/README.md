@@ -1,0 +1,29 @@
+# find-n-unique-integers-sum-up-to-zero. Find N Unique Integers Sum up to Zero
+
+🟢 Easy
+
+## Topics
+`Array` `Math` 
+
+## Latest Solution Information
+
+| Metric | Value |
+|---|---|
+| Language | Java |
+| Runtime | N/A |
+| Memory | 41.06 MB |
+| Submitted | 2026-04-02 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-04-02 | Java | N/A | 41.06 MB | Accepted | [View Code](./attempts/1966438216/solution.java) |
+
+## Repository Path
+
+`Java/Easy/find-n-unique-integers-sum-up-to-zero-find-n-unique-integers-sum-up-to-zero/attempts/1966438216/solution.java`
+
+## Synced By
+
+[LCSync](https://github.com/sriram1224/LCSync) — Automated DSA Portfolio Engine 🚀
