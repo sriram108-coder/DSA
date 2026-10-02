@@ -11,7 +11,7 @@
 |---|---|
 | Language | Java |
 | Runtime | 2 ms |
-| Memory | 45.23 MB |
+| Memory | 45.18 MB |
 | Submitted | 2026-04-02 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/lucky-numbers-in-a-matrix-lucky-numbers-in-a-matrix/attempts/1966715708/solution.java`
+`Java/Easy/lucky-numbers-in-a-matrix-lucky-numbers-in-a-matrix/attempts/1966653579/solution.java`
 
 ## Synced By
 
