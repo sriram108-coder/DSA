@@ -5,7 +5,7 @@
 ## Topics
 `Linked List` `Recursion` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | N/A |
 | Memory | 42.41 MB |
 | Submitted | 2026-07-16 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-16 | Java | N/A | 42.41 MB | Accepted | [View Code](./attempts/2069532922/solution.java) |
 
 ## Repository Path
 
