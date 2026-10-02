@@ -11,7 +11,7 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 39.68 MB |
+| Memory | 39.38 MB |
 | Submitted | 2024-06-07 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/plus-one-plus-one/attempts/1280742260/solution.java`
+`Java/Easy/plus-one-plus-one/attempts/1280739002/solution.java`
 
 ## Synced By
 
