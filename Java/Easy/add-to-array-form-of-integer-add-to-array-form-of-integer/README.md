@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 3 ms |
-| Memory | 45.60 MB |
-| Submitted | 2026-03-30 |
+| Runtime | 1 ms |
+| Memory | 45.00 MB |
+| Submitted | 2026-03-28 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/add-to-array-form-of-integer-add-to-array-form-of-integer/attempts/1963690101/solution.java`
+`Java/Easy/add-to-array-form-of-integer-add-to-array-form-of-integer/attempts/1961586783/solution.java`
 
 ## Synced By
 
