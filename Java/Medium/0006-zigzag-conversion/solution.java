@@ -1,12 +1,12 @@
 class Solution {
     public String convert(String s, int numRows) {
         if(numRows == 1) return s;
-        StringBuilder[] ls = new StringBuilder[numRows];
-        for(int i = 0; i<numRows;i++)   ls[i] = new StringBuilder();
+        List<StringBuilder> ls = new ArrayList<>();
+        for(int i = 0; i<numRows;i++)   ls.add(new StringBuilder());
         int currentRow = 0;
         boolean downdirection = false;
         for(char ch: s.toCharArray()){
-            ls[currentRow].append(ch);
+            ls.get(currentRow).append(ch);
             if(currentRow == 0 ||currentRow == numRows-1  ) downdirection = !downdirection;
             
             currentRow += downdirection?1:-1;

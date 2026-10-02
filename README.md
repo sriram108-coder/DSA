@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 19 |
+| Java | 20 |
 | JavaScript | 3 |
 
 ## 🏷️ Top Topics
@@ -25,7 +25,7 @@
 |---|---|
 | Linked List | 12 |
 | Two Pointers | 10 |
-| Array | 6 |
+| Array | 7 |
 | Hash Table | 6 |
 | Recursion | 4 |
 
