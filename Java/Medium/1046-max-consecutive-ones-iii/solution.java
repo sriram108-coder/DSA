@@ -7,17 +7,16 @@ class Solution {
          int z= 0;
       while(r<n){
         if(nums[r] == 0) z++;
-       while(z>k){
+        r++;
+       if(z>k){
         if(nums[l] == 0) z--;
         l++;
        }
-       if(z<=k){
-        len = r-l+1;
-        max = Math.max(len,max);
-        r++;
-       }
+     
+        
+       
         
       }
-      return max;
+      return r-l;
     }
 }
