@@ -16,15 +16,15 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 79 |
-| JavaScript | 12 |
+| Java | 80 |
+| JavaScript | 15 |
 | MySQL | 11 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Array | 58 |
+| Array | 59 |
 | Two Pointers | 21 |
 | Hash Table | 16 |
 | String | 15 |
