@@ -5,7 +5,7 @@
 ## Topics
 `Linked List` `Two Pointers` `Divide and Conquer` `Sorting` `Merge Sort` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | 10 ms |
 | Memory | 56.60 MB |
 | Submitted | 2026-07-06 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-06 | Java | 10 ms | 56.60 MB | Accepted | [View Code](./attempts/2058480732/solution.java) |
 
 ## Repository Path
 
