@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | JavaScript |
-| Runtime | 77 ms |
-| Memory | 51.20 MB |
+| Runtime | 92 ms |
+| Memory | 55.21 MB |
 | Submitted | 2024-01-08 |
 
 ## Attempt Evolution
@@ -29,7 +29,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/gas-station-gas-station/attempts/1140490734/solution.js`
+`JavaScript/Medium/gas-station-gas-station/attempts/1140489278/solution.js`
 
 ## Synced By
 
