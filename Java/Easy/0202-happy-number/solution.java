@@ -8,9 +8,9 @@ class Solution {
     
     fast = findSqure(findSqure(fast));
 
-    if(slow == 1) return true;
+    
     }while(slow!=fast);
-
+if(slow == 1) return true;
     return false;
 
     }
@@ -20,7 +20,7 @@ class Solution {
         while(n>0){
             int temp = n%10;
             ans += temp* temp;
-            n = n/10;
+            n /= 10;
         }
 
         return ans;
