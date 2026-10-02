@@ -5,18 +5,25 @@
 ## Topics
 `Linked List` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 43.22 MB |
-| Submitted | 2026-07-04 |
+| Memory | 43.37 MB |
+| Submitted | 2026-07-08 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-08 | Java | N/A | 43.37 MB | Accepted | [View Code](./attempts/2060280373/solution.java) |
+| #2 | 2026-07-04 | Java | N/A | 43.22 MB | Accepted | [View Code](./attempts/2056023303/solution.java) |
 
 ## Repository Path
 
-`Java/Easy/0083-remove-duplicates-from-sorted-list/attempts/2056023303/solution.java`
+`Java/Easy/0083-remove-duplicates-from-sorted-list/attempts/2060280373/solution.java`
 
 ## Synced By
 
