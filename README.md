@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 63 |
+| Java | 66 |
 | JavaScript | 11 |
 | MySQL | 11 |
 
@@ -24,8 +24,8 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 45 |
-| Two Pointers | 20 |
+| Array | 47 |
+| Two Pointers | 21 |
 | Linked List | 14 |
 | Binary Search | 13 |
 | Hash Table | 13 |
