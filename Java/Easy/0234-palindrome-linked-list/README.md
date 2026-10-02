@@ -5,7 +5,7 @@
 ## Topics
 `Linked List` `Two Pointers` `Stack` `Recursion` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | 6 ms |
 | Memory | 92.28 MB |
 | Submitted | 2026-07-16 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-07-16 | Java | 6 ms | 92.28 MB | Accepted | [View Code](./attempts/2069736715/solution.java) |
 
 ## Repository Path
 
