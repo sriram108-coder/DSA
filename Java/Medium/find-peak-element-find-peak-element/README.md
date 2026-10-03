@@ -11,7 +11,7 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 39.33 MB |
+| Memory | 39.73 MB |
 | Submitted | 2023-12-19 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/find-peak-element-find-peak-element/attempts/1123373361/solution.java`
+`Java/Medium/find-peak-element-find-peak-element/attempts/1123375845/solution.java`
 
 ## Synced By
 
