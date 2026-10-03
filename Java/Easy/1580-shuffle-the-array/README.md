@@ -5,18 +5,26 @@
 ## Topics
 `Array` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 44.19 MB |
-| Submitted | 2026-03-26 |
+| Memory | 44.21 MB |
+| Submitted | 2026-06-13 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-13 | Java | N/A | 44.21 MB | Accepted | [View Code](./attempts/2031718891/solution.java) |
+| #2 | 2026-06-13 | Java | N/A | 44.23 MB | Accepted | [View Code](./attempts/2031716814/solution.java) |
+| #3 | 2026-03-26 | Java | N/A | 44.19 MB | Accepted | [View Code](./attempts/1960125682/solution.java) |
 
 ## Repository Path
 
-`Java/Easy/1580-shuffle-the-array/attempts/1960125682/solution.java`
+`Java/Easy/1580-shuffle-the-array/attempts/2031718891/solution.java`
 
 ## Synced By
 
