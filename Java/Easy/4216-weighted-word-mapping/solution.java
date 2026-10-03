@@ -1,6 +1,11 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-     
+        HashMap<Character,Integer> map = new HashMap<>();
+        int index = 0;
+        for(char ch = 'a'; ch<='z'; ch++){
+            map.put(ch,weights[index]);
+            index++;
+        }
         HashMap<Integer,Character> reverse = new HashMap<>();
         
         for(int i = 0; i<26; i++){
@@ -12,7 +17,7 @@ class Solution {
             int sum = 0;
             
         for(char ch : st.toCharArray()){
-                sum+= weights[ch-'a'];
+                sum+= map.get(ch);
         }
         
         ans += reverse.get(sum%26);
