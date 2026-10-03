@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 43.79 MB |
-| Submitted | 2024-07-02 |
+| Memory | 43.60 MB |
+| Submitted | 2024-06-07 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Hard/median-of-two-sorted-arrays-median-of-two-sorted-arrays/attempts/1306865236/solution.java`
+`Java/Hard/median-of-two-sorted-arrays-median-of-two-sorted-arrays/attempts/1280763987/solution.java`
 
 ## Synced By
 
