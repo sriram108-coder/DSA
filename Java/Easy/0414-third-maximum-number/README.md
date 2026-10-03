@@ -5,18 +5,26 @@
 ## Topics
 `Array` `Sorting` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | N/A |
-| Memory | 40.71 MB |
-| Submitted | 2024-02-02 |
+| Runtime | 6 ms |
+| Memory | 42.96 MB |
+| Submitted | 2026-04-27 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-04-27 | Java | 6 ms | 42.96 MB | Accepted | [View Code](./attempts/1989118876/solution.java) |
+| #2 | 2024-02-02 | Java | 3 ms | 40.74 MB | Accepted | [View Code](./attempts/1164054795/solution.java) |
+| #3 | 2024-02-02 | Java | N/A | 40.71 MB | Wrong_Answer | [View Code](./attempts/1164049892/solution.java) |
 
 ## Repository Path
 
-`Java/Easy/0414-third-maximum-number/attempts/1164049892/solution.java`
+`Java/Easy/0414-third-maximum-number/attempts/1989118876/solution.java`
 
 ## Synced By
 
