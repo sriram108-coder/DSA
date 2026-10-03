@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | 1 ms |
-| Memory | 45.14 MB |
-| Submitted | 2026-03-26 |
+| Memory | 43.52 MB |
+| Submitted | 2024-05-05 |
 
 ## Attempt Evolution
 
@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Java/Easy/2058-concatenation-of-array/attempts/1960010900/solution.java`
+`Java/Easy/2058-concatenation-of-array/attempts/1250233360/solution.java`
 
 ## Synced By
 
