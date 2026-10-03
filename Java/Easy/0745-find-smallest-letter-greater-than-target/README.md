@@ -11,8 +11,8 @@
 |---|---|
 | Language | Java |
 | Runtime | N/A |
-| Memory | 44.17 MB |
-| Submitted | 2026-06-16 |
+| Memory | 42.89 MB |
+| Submitted | 2025-01-07 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0745-find-smallest-letter-greater-than-target/attempts/2034952977/solution.java`
+`Java/Easy/0745-find-smallest-letter-greater-than-target/attempts/1500855599/solution.java`
 
 ## Synced By
 
