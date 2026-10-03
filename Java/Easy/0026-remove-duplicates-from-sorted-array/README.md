@@ -5,7 +5,7 @@
 ## Topics
 `Array` `Two Pointers` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | N/A |
 | Memory | 44.76 MB |
 | Submitted | 2026-06-13 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-13 | Java | N/A | 44.76 MB | Accepted | [View Code](./attempts/2032177809/solution.java) |
 
 ## Repository Path
 
