@@ -11,7 +11,7 @@
 |---|---|
 | Language | Java |
 | Runtime | 4 ms |
-| Memory | 42.71 MB |
+| Memory | 42.78 MB |
 | Submitted | 2024-05-01 |
 
 ## Attempt Evolution
@@ -30,7 +30,7 @@
 
 ## Repository Path
 
-`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246136679/solution.java`
+`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246135219/solution.java`
 
 ## Synced By
 
