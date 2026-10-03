@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 3891 ms |
-| Memory | 45.27 MB |
+| Runtime | 3802 ms |
+| Memory | 41.13 MB |
 | Submitted | 2026-05-13 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/1016-subarray-sums-divisible-by-k/attempts/2002225654/solution.java`
+`Java/Medium/1016-subarray-sums-divisible-by-k/attempts/2002161005/solution.java`
 
 ## Synced By
 
