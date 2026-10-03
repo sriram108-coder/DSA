@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 7 ms |
-| Memory | 42.53 MB |
+| Runtime | 4 ms |
+| Memory | 42.71 MB |
 | Submitted | 2024-05-01 |
 
 ## Attempt Evolution
@@ -30,7 +30,7 @@
 
 ## Repository Path
 
-`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246137029/solution.java`
+`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246136679/solution.java`
 
 ## Synced By
 
