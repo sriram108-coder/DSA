@@ -10,7 +10,7 @@
 | Metric | Value |
 |---|---|
 | Language | JavaScript |
-| Runtime | 79 ms |
+| Runtime | 77 ms |
 | Memory | 51.20 MB |
 | Submitted | 2024-01-08 |
 
@@ -29,7 +29,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/gas-station-gas-station/attempts/1140491790/solution.js`
+`JavaScript/Medium/gas-station-gas-station/attempts/1140490734/solution.js`
 
 ## Synced By
 
