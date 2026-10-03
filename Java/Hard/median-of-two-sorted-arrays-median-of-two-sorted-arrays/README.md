@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 1 ms |
-| Memory | 43.60 MB |
-| Submitted | 2024-06-07 |
+| Runtime | 5 ms |
+| Memory | 44.26 MB |
+| Submitted | 2025-01-07 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Hard/median-of-two-sorted-arrays-median-of-two-sorted-arrays/attempts/1280763987/solution.java`
+`Java/Hard/median-of-two-sorted-arrays-median-of-two-sorted-arrays/attempts/1500320540/solution.java`
 
 ## Synced By
 
