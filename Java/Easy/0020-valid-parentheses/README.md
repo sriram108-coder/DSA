@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 1 ms |
-| Memory | 38.44 MB |
+| Runtime | 2 ms |
+| Memory | 38.71 MB |
 | Submitted | 2023-10-02 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0020-valid-parentheses/attempts/1064841587/solution.java`
+`Java/Easy/0020-valid-parentheses/attempts/1064842492/solution.java`
 
 ## Synced By
 
