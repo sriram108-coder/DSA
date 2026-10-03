@@ -11,7 +11,7 @@
 |---|---|
 | Language | JavaScript |
 | Runtime | 89 ms |
-| Memory | 50.77 MB |
+| Memory | 51.16 MB |
 | Submitted | 2024-01-08 |
 
 ## Attempt Evolution
@@ -29,7 +29,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/gas-station-gas-station/attempts/1140583004/solution.js`
+`JavaScript/Medium/gas-station-gas-station/attempts/1140582373/solution.js`
 
 ## Synced By
 
