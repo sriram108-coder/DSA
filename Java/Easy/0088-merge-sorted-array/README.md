@@ -5,7 +5,7 @@
 ## Topics
 `Array` `Two Pointers` `Sorting` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | N/A |
 | Memory | 41.99 MB |
 | Submitted | 2026-06-13 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-13 | Java | N/A | 41.99 MB | Accepted | [View Code](./attempts/2032125135/solution.java) |
 
 ## Repository Path
 
