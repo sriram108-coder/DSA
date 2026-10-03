@@ -10,7 +10,7 @@
 | Metric | Value |
 |---|---|
 | Language | MySQL |
-| Runtime | 365 ms |
+| Runtime | 353 ms |
 | Memory | N/A |
 | Submitted | 2025-11-23 |
 
@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837433884/solution.txt`
+`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837433494/solution.txt`
 
 ## Synced By
 
