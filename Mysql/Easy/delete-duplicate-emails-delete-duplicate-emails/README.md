@@ -10,7 +10,7 @@
 | Metric | Value |
 |---|---|
 | Language | MySQL |
-| Runtime | 495 ms |
+| Runtime | 505 ms |
 | Memory | N/A |
 | Submitted | 2025-11-23 |
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/delete-duplicate-emails-delete-duplicate-emails/attempts/1837296232/solution.txt`
+`Mysql/Easy/delete-duplicate-emails-delete-duplicate-emails/attempts/1837292919/solution.txt`
 
 ## Synced By
 
