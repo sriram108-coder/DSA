@@ -5,18 +5,25 @@
 ## Topics
 `Array` `Two Pointers` `Greedy` `Sorting` `Quicksort` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
 | Language | Java |
-| Runtime | 15 ms |
-| Memory | 49.25 MB |
+| Runtime | 14 ms |
+| Memory | 49.21 MB |
 | Submitted | 2026-05-15 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-05-15 | Java | 14 ms | 49.21 MB | Accepted | [View Code](./attempts/2004091780/solution.java) |
+| #2 | 2026-05-15 | Java | 15 ms | 49.25 MB | Wrong_Answer | [View Code](./attempts/2004084062/solution.java) |
 
 ## Repository Path
 
-`Java/Easy/0455-assign-cookies/attempts/2004084062/solution.java`
+`Java/Easy/0455-assign-cookies/attempts/2004091780/solution.java`
 
 ## Synced By
 
