@@ -5,7 +5,7 @@
 ## Topics
 `Database` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | 562 ms |
 | Memory | N/A |
 | Submitted | 2026-06-18 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-18 | MySQL | 562 ms | N/A | Accepted | [View Code](./attempts/2037842807/solution.txt) |
 
 ## Repository Path
 
