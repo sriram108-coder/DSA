@@ -5,7 +5,7 @@
 ## Topics
 `Linked List` 
 
-## Solution Information
+## Latest Solution Information
 
 | Metric | Value |
 |---|---|
@@ -13,6 +13,12 @@
 | Runtime | 4 ms |
 | Memory | 101.33 MB |
 | Submitted | 2026-06-03 |
+
+## Attempt Evolution
+
+| Attempt | Date | Language | Runtime | Memory | Verdict | Archive Link |
+|---|---|---|---|---|---|---|
+| #1 | 2026-06-03 | Java | 4 ms | 101.33 MB | Accepted | [View Code](./attempts/2021670860/solution.java) |
 
 ## Repository Path
 
