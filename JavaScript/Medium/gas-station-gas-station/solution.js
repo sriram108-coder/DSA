@@ -4,20 +4,19 @@
  * @return {number}
  */
 var canCompleteCircuit = function(gas, cost) {
-    let totalTankGas = 0;
-    let currentTank = 0;
-    let startStation = 0;
+    
+    let n = gas.length;
+    let total_surplas = 0;
+    let surplus = 0;
+    let s = 0;
 
-    for (let i = 0; i < gas.length; i++) {
-        const fuelDifference = gas[i] - cost[i];
-        totalTankGas += fuelDifference;
-        currentTank += fuelDifference;
-
-        if (currentTank < 0) {
-            startStation = i + 1;
-            currentTank = 0;
+    for(let i=0; i < gas.length; i++){
+        total_surplas += gas[i] - cost[i];
+        surplus+= gas[i]-cost[i];
+        if(surplus < 0){
+            surplus = 0;
+            s = i+1;
         }
     }
-
-    return totalTankGas < 0 ? -1 : startStation;
+    return total_surplas < 0 ? -1: s;
 };
