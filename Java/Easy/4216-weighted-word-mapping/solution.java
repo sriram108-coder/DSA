@@ -15,7 +15,7 @@ class Solution {
                 sum+= weights[ch-'a'];
         }
         
-        ans += ((char) ('z' -(sum%26)));
+        ans += reverse.get(sum%26);
 
         }
 
